@@ -1,0 +1,1 @@
+# okul_yonetim_sistemi
